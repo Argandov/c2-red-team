@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 
 [ComVisible(true)]
-public class CradleImplant
+public class MainStarter
 {
     public enum NtStatus : uint
     {
